@@ -1,0 +1,23 @@
+{
+  "project": "northwind",
+  "timezone": "America/Los_Angeles",
+  "phase_1_files": ["01","02","03","04","05","06","07","08","09","10"],
+  "phase_2_files": ["11","12","13","14","15"],
+  "transcripts": [
+    {"file":"transcripts/01_2026-08-31_standup.md","document_id":"northwind-2026-08-31","timestamp":"2026-08-31T09:31:00-07:00","sprint":"s1","meeting":"standup","tags":["project:northwind","sprint:s1","meeting:standup"]},
+    {"file":"transcripts/02_2026-09-01_standup.md","document_id":"northwind-2026-09-01","timestamp":"2026-09-01T09:34:00-07:00","sprint":"s1","meeting":"standup","tags":["project:northwind","sprint:s1","meeting:standup"]},
+    {"file":"transcripts/03_2026-09-02_standup.md","document_id":"northwind-2026-09-02","timestamp":"2026-09-02T09:30:00-07:00","sprint":"s1","meeting":"standup","tags":["project:northwind","sprint:s1","meeting:standup"]},
+    {"file":"transcripts/04_2026-09-03_standup.md","document_id":"northwind-2026-09-03","timestamp":"2026-09-03T09:36:00-07:00","sprint":"s1","meeting":"standup","tags":["project:northwind","sprint:s1","meeting:standup"]},
+    {"file":"transcripts/05_2026-09-04_sprint_review.md","document_id":"northwind-2026-09-04","timestamp":"2026-09-04T09:32:00-07:00","sprint":"s1","meeting":"review","tags":["project:northwind","sprint:s1","meeting:review"]},
+    {"file":"transcripts/06_2026-09-07_async_standup.md","document_id":"northwind-2026-09-07","timestamp":"2026-09-07T11:30:00-07:00","sprint":"s2","meeting":"async","tags":["project:northwind","sprint:s2","meeting:async"]},
+    {"file":"transcripts/07_2026-09-08_standup.md","document_id":"northwind-2026-09-08","timestamp":"2026-09-08T09:40:00-07:00","sprint":"s2","meeting":"standup","tags":["project:northwind","sprint:s2","meeting:standup"]},
+    {"file":"transcripts/08_2026-09-09_standup.md","document_id":"northwind-2026-09-09","timestamp":"2026-09-09T09:33:00-07:00","sprint":"s2","meeting":"standup","tags":["project:northwind","sprint:s2","meeting:standup"]},
+    {"file":"transcripts/09_2026-09-10_standup.md","document_id":"northwind-2026-09-10","timestamp":"2026-09-10T09:31:00-07:00","sprint":"s2","meeting":"standup","tags":["project:northwind","sprint:s2","meeting:standup"]},
+    {"file":"transcripts/10_2026-09-11_sprint_review.md","document_id":"northwind-2026-09-11","timestamp":"2026-09-11T09:35:00-07:00","sprint":"s2","meeting":"review","tags":["project:northwind","sprint:s2","meeting:review"]},
+    {"file":"transcripts/11_2026-09-14_standup.md","document_id":"northwind-2026-09-14","timestamp":"2026-09-14T09:31:00-07:00","sprint":"s3","meeting":"standup","tags":["project:northwind","sprint:s3","meeting:standup"]},
+    {"file":"transcripts/12_2026-09-15_demo_debrief.md","document_id":"northwind-2026-09-15","timestamp":"2026-09-15T15:15:00-07:00","sprint":"s3","meeting":"debrief","tags":["project:northwind","sprint:s3","meeting:debrief"]},
+    {"file":"transcripts/13_2026-09-16_standup.md","document_id":"northwind-2026-09-16","timestamp":"2026-09-16T09:30:00-07:00","sprint":"s3","meeting":"standup","tags":["project:northwind","sprint:s3","meeting:standup"]},
+    {"file":"transcripts/14_2026-09-17_standup.md","document_id":"northwind-2026-09-17","timestamp":"2026-09-17T09:32:00-07:00","sprint":"s3","meeting":"standup","tags":["project:northwind","sprint:s3","meeting:standup"]},
+    {"file":"transcripts/15_2026-09-18_retro.md","document_id":"northwind-2026-09-18","timestamp":"2026-09-18T14:00:00-07:00","sprint":"s3","meeting":"retro","tags":["project:northwind","sprint:s3","meeting:retro"]}
+  ]
+}
