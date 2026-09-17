@@ -98,6 +98,8 @@ Decide and write down:
 
 Configure the bank **before** ingesting anything. Four decisions.
 
+> **Tip:** Use the `hindsight-docs` skill in your favorite coding agent to help you with this step. You can copy the entire lab guide into the coding agent so it has context on the Northwind project, Theo's needs, and the decisions you made in Step 2.
+
 ### 3a. Mission, disposition, directives
 
 These focus reflect on what a PM needs. Set them on the bank, not in your app's prompt.
